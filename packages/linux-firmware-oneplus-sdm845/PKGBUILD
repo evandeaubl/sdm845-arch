@@ -20,5 +20,5 @@ package() {
 	done < "$srcdir/firmware.files"
 	# firmware in the bundle does not seem to work, point to firmware
 	# in stock bundle
-	ln -s ../crnv21.bin $pkgdir/usr/lib/firmware/qca/oneplus6/crnv21.bin
+	ln -sf ../crnv21.bin $pkgdir/usr/lib/firmware/qca/oneplus6/crnv21.bin
 }
