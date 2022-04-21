@@ -8,7 +8,7 @@ _version=3ec855b2247291c79652b319dfe93f7747363c86
 source=("$_pkgbase.tar.gz::https://gitlab.com/sdm845-mainline/$_pkgbase/-/archive/$_version/$_pkgbase-$_version.tar.gz"
 	"firmware.files")
 sha256sums=('22e18632a984bd70f6f6c717816d7701f10b7dc16eac0ec85a3a2e7a7fb402d3'
-	'19df9d6618175e7a819cb31a9e81d14d1e747bc0a0161c836cc4692d7e72b8d1')
+	'973bf37382f072692ee6f79b6b3e1fa9e50e7137e386c4cbe13ace569fa6a3a3')
 options=('!strip')
 
 package() {
