@@ -20,7 +20,7 @@ source=("https://gitlab.com/sdm845-mainline/linux/-/archive/sdm845-5.16.12/${pkg
         '60-linux.hook'
         '90-linux.hook')
 md5sums=('a3c05b05f6e40f6495610a2db6cde27f'
-	 '4f547aa175121ff6fe2dd8b067a5dc24'
+	 'b254e6490407d7882e46f3bf3598bf60'
          '41cb5fef62715ead2dd109dbea8413d6'
          '0a5f16bfec6ad982a2f6782724cca8ba'
          '3dc88030a8f2f5a5f97266d99b149f77')
