@@ -5,3 +5,5 @@ RUN pacman -Sy --noconfirm && pacman -S --noconfirm git
 RUN useradd -m build
 
 COPY all /etc/sudoers.d
+
+USER build:build
