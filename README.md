@@ -1,3 +1,7 @@
+---
+Not that there was ever much here, but anything here is unmaintained, as I have transitioned to using kupfer (<https://gitlab.com/kupfer>).
+---
+
 # Arch Linux for SDM845-based devices
 
 ## Installation steps
